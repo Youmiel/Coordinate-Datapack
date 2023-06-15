@@ -1,0 +1,1 @@
+execute if score #enable coord_global matches 1.. run function coord:_tick

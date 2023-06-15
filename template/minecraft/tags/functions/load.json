@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "coord:__init__",
+        "coord:tick_sparse"
+    ]
+}

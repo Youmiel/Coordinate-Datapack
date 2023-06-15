@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 9,
+        "description": "Alternative solution of MCDR Here and Where plugin"
+    },
+    "__version__": "v1.0.0"
+}
