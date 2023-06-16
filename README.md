@@ -2,6 +2,8 @@
 
 Alternative solution of MCDR's Here and Where plugin.
 
+Developed in Minecraft 1.18.2, should be able to work in Minecraft 1.13.2 to latest version.
+
 ## Commands
 
 - `/trigger _coMenu`: displays a user interface menu in the chat
