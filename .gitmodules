@@ -1,0 +1,3 @@
+[submodule "build_module"]
+	path = build_module
+	url = https://github.com/Youmiel/DatapackBuildScript.git
