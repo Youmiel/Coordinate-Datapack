@@ -1,7 +1,7 @@
 # context:
 #   - executor: the player with positive countdown
-#   - position: unknown
-#   - facing: unknown
+#   - position: UNKNOWN
+#   - facing: UNKNOWN
 # input:
 #   - None
 # output: 

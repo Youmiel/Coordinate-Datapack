@@ -5,7 +5,7 @@
 # context:
 #   - executor: the player
 #   - position: the player's position
-#   - facing: unknown
+#   - facing: UNKNOWN
 # input:
 #   - @s @ ${cfg.trigger_coord}
 # output: 

@@ -9,7 +9,7 @@
 # context:
 #   - executor: the player
 #   - position: the player's position
-#   - facing: unknown
+#   - facing: UNKNOWN
 # input:
 #   - None
 # output: 

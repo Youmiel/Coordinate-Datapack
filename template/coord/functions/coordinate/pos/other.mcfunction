@@ -1,7 +1,7 @@
 # context:
 #   - executor: the target player
 #   - position: the target player's position
-#   - facing: unknown
+#   - facing: UNKNOWN
 # input:
 #   - None
 # output: 
